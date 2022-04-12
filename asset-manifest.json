@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/racingfoxs/tail_react_port/static/css/main.5eb461f4.css",
-    "main.js": "/racingfoxs/tail_react_port/static/js/main.f8223119.js",
-    "static/js/787.c9016fb8.chunk.js": "/racingfoxs/tail_react_port/static/js/787.c9016fb8.chunk.js",
-    "static/media/logo.svg": "/racingfoxs/tail_react_port/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/racingfoxs/tail_react_port/index.html",
-    "main.5eb461f4.css.map": "/racingfoxs/tail_react_port/static/css/main.5eb461f4.css.map",
-    "main.f8223119.js.map": "/racingfoxs/tail_react_port/static/js/main.f8223119.js.map",
-    "787.c9016fb8.chunk.js.map": "/racingfoxs/tail_react_port/static/js/787.c9016fb8.chunk.js.map"
+    "main.css": "/tail_react_port/static/css/main.5eb461f4.css",
+    "main.js": "/tail_react_port/static/js/main.e2480be7.js",
+    "static/js/787.c9016fb8.chunk.js": "/tail_react_port/static/js/787.c9016fb8.chunk.js",
+    "static/media/logo.svg": "/tail_react_port/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tail_react_port/index.html",
+    "main.5eb461f4.css.map": "/tail_react_port/static/css/main.5eb461f4.css.map",
+    "main.e2480be7.js.map": "/tail_react_port/static/js/main.e2480be7.js.map",
+    "787.c9016fb8.chunk.js.map": "/tail_react_port/static/js/787.c9016fb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5eb461f4.css",
-    "static/js/main.f8223119.js"
+    "static/js/main.e2480be7.js"
   ]
 }
